@@ -44,13 +44,13 @@ To start using Motion, follow these steps:
 
 1. **Visit the Website**:
    - Go to [Motion's official website](https://www.usemotion.com) and click on the **"Try Motion for Free"** button.
-   ![Motion Dashboard Example](./ENGR_0201/Motion0.png)
-   ![Motion Dashboard Example](./ENGR_0201/Motion1.png)
+   ![Motion Dashboard Example](main/ENGR_0201/Motion0.png)
+   ![Motion Dashboard Example](main/ENGR_0201/Motion1.png)
 
 2. **Create an Account**:
    - Enter your email address.
    - Set up your account by providing your name and creating a secure password.
-    ![Motion Create Account Example](./ENGR_0201/Motion2.png)
+    ![Motion Create Account Example](main/ENGR_0201/Motion2.png)
     ![Motion Create_Account Example](./ENGR_0201/Motion3.png)
 
 3. **Choose a Subscription Plan**:

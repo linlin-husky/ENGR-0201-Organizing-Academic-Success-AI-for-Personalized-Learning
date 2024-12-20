@@ -113,12 +113,12 @@ To start using Motion, follow these steps:
 1. **Select Recurring Tasks**:
    - You will be prompted to add recurring tasks such as "Meditate," "Check emails," "Lunch," or "Exercise."
    - Check the boxes next to the tasks you want to schedule regularly.
-   ![Motion Recurring Tasks Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion10.png)
+   ![Motion Recurring Tasks Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion9.png)
 
 2. **Automatic Time Blocking**:
    - Motion will automatically allocate time for these tasks in your calendar.
    - The tasks will be added based on your work hours and existing schedule.
-   ![Motion Time Blocking Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion11.png)
+   ![Motion Time Blocking Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion10.png)
 
 3. **Modify Recurring Tasks (Optional)**:
    - You can adjust the frequency or timing of recurring tasks later in the settings.

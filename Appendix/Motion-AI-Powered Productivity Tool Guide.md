@@ -44,19 +44,18 @@ To start using Motion, follow these steps:
 
 1. **Visit the Website**:
    - Go to [Motion's official website](https://www.usemotion.com) and click on the **"Try Motion for Free"** button.
-   ![Motion Dashboard Example](main/ENGR_0201/Motion0.png)
-   ![Motion Dashboard Example](main/ENGR_0201/Motion1.png)
+   ![Motion Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion0.png)
+   ![Motion Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion1.png)
 
 2. **Create an Account**:
    - Enter your email address.
    - Set up your account by providing your name and creating a secure password.
-    ![Motion Create Account Example](main/ENGR_0201/Motion2.png)
-    ![Motion Create_Account Example](./ENGR_0201/Motion3.png)
+   ![Motion Create Account Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion2.png)
+   ![Motion Create Account Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion3.png)
 
 3. **Choose a Subscription Plan**:
    - Select the free trial option (7 days).
    - Review the subscription details (e.g., $19/month billed annually after the trial).
-   
 
 4. **Provide Payment Information**:
    - Add your credit card details or choose Google Pay for payment.
@@ -65,14 +64,16 @@ To start using Motion, follow these steps:
 5. **Complete the Setup**:
    - Click on **Start 7-Day Trial** to activate your account.
    - Follow the on-screen prompts to proceed to the next step of the setup process.
-      ![Motion Billing Example](./ENGR_0201/Motion7.png)
+   ![Motion Billing Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion7.png)
+
+---
 
 ### **2. Connect Your Calendars**
 
 1. **Link Your Calendars**:
    - After signing up, you will be prompted to connect your work and personal calendars. Supported calendars include Google, Outlook, and others.
    - Click on the **"Connect Calendar"** button to proceed.
- ![Motion Billing Example](./ENGR_0201/Motion3.png)
+   ![Motion Calendar Connect Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion3.png)
 
 2. **Select Calendar Accounts**:
    - If you have multiple accounts (e.g., work and personal), you will see a list of accounts.
@@ -84,14 +85,16 @@ To start using Motion, follow these steps:
 
 4. **Confirm Selection**:
    - After selecting the calendars, click the **"I’ve selected all calendars that belong to me"** button to finalize the setup.
-     ![Motion CalendarLink Example](./ENGR_0201/Motion8.png)
+   ![Motion Calendar Selection Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion8.png)
+
+---
 
 ### **3. Set Weekly Work Hours**
 
 1. **Define Your Work Hours**:
    - Motion will prompt you to set your working hours for each weekday.
    - Enter the start time (e.g., 9:00 AM) and end time (e.g., 5:00 PM) for each day of the week.
-    ![Motion WeeklyWork Example](./ENGR_0201/Motion4.png)
+   ![Motion Weekly Work Hours Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion4.png)
 
 2. **Replicate Timings**:
    - Use the **"Copy"** button next to the time slots to quickly apply the same timings to other weekdays.
@@ -103,21 +106,27 @@ To start using Motion, follow these steps:
 4. **Save and Continue**:
    - Once you have finalized your weekly work hours, click on **"Continue"** to proceed.
 
+---
+
 ### **4. Add Recurring Tasks**
 
 1. **Select Recurring Tasks**:
    - You will be prompted to add recurring tasks such as "Meditate," "Check emails," "Lunch," or "Exercise."
    - Check the boxes next to the tasks you want to schedule regularly.
+   ![Motion Recurring Tasks Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion10.png)
 
 2. **Automatic Time Blocking**:
    - Motion will automatically allocate time for these tasks in your calendar.
    - The tasks will be added based on your work hours and existing schedule.
+   ![Motion Time Blocking Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion11.png)
 
 3. **Modify Recurring Tasks (Optional)**:
    - You can adjust the frequency or timing of recurring tasks later in the settings.
 
 4. **Save and Proceed**:
    - Once you have selected the tasks, click **"Create Recurring Tasks"** to finalize.
+
+---
 
 ### **5. Choose a Theme**
 
@@ -127,24 +136,29 @@ To start using Motion, follow these steps:
      - **System Settings**: Automatically matches the theme of your operating system (light or dark).
      - **Dark Mode**: Ideal for low-light environments and nighttime use.
      - **Light Mode**: Provides a bright and clean interface suitable for well-lit settings.
- ![Motion Theme Example](./ENGR_0201/Motion6.png)
+   ![Motion Theme Selection Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion6.png)
+
 2. **Preview the Themes**:
    - As you select each theme, Motion will display a preview of how the interface will appear.
 
 3. **Finalize Your Choice**:
-   - Once you are satisfied with your selection, click **“Continue”** to save your preference.
+   - Once you are satisfied with your selection, click **"Continue"** to save your preference.
+
+---
 
 ### **6. Explore Tutorials**
 
 1. **Navigate to Tutorials Section**:
    - Open the Motion dashboard and locate the **"Tutorials"** option on the left sidebar.
- ![Motion Tutorial Example](./ENGR_0201/Motion10.png)
+   ![Motion Tutorial Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion10.png)
+
 2. **Learn Key Features**:
    - Explore tutorials covering essential functionalities such as:
      - Managing calendars and tasks effectively.
      - Using workflow templates to organize projects.
      - Scheduling and prioritizing tasks dynamically with AI assistance.
- ![Motion Tutorial Example](./ENGR_0201/Motion11.png)
+   ![Motion Tutorial Features Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion11.png)
+
 3. **Track Progress**:
    - Complete each tutorial step to achieve 100% onboarding progress.
 
@@ -156,14 +170,16 @@ To start using Motion, follow these steps:
 1. **Navigate to My Tasks**:
    - Open the Motion dashboard and go to the **"My Tasks"** section.
    - Click on the **"+ Task"** button to create a new task.
- ![Motion Tasks Example](./ENGR_0201/Motion12.png)
+   ![Motion Tasks Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion12.png)
+
 2. **Provide Task Details**:
    - Enter the following information:
      - **Task name**: A short, descriptive name for the task.
      - **Deadline**: Specify when the task needs to be completed.
      - **Priority**: Assign a priority level (e.g., Low, Medium, High).
      - **Estimated duration**: Provide an approximate time required (e.g., 30 minutes, 1 hour).
- ![Motion TaskDetails Example](./ENGR_0201/Motion13.png)
+   ![Motion Task Details Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion13.png)
+
 3. **Organize Tasks into Projects**:
    - Click on the **"+ Project"** button to group related tasks into a single project.
    - Add subtasks under the project for better organization.
@@ -224,7 +240,8 @@ To start using Motion, follow these steps:
   - **Shared Calendars**: View and manage team members' schedules in one place.
   - **Task Delegation**: Assign tasks to specific team members and track their progress.
   - **Real-Time Collaboration**: Work simultaneously on projects with team members.
- ![Motion Collab Example](./ENGR_0201/Motion14.png)
+   ![Motion Collab Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Motion14.png)
+
 
 
 ### **12. Start Working Smarter**

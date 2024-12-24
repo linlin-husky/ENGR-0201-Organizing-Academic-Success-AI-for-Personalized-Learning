@@ -65,18 +65,18 @@ Remove.bg is an AI-driven tool that automates the process of background removal 
 
 ### Getting Started:
 1. Visit [Remove.bg](https://www.remove.bg).
-   ![alt text](remove_bg-3.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/remove_bg-3.png)
 
-   ![alt text](remove_bg.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/remove_bg.png)
 2. Click "Upload Image" to select an image from your device.
 3. Wait a few seconds for the AI to process and remove the background.
-   ![alt text](remove_bg-1.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/remove_bg-1.png)
 
 ### Editing and Downloading:
 1. Preview the processed image.
 2. Use editing tools to fine-tune the result or replace the background with a custom design.
 3. Click "Download" to save the image in standard resolution (free) or high resolution (paid).
-   ![alt text](remove_bg-2.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/remove_bg-2.png)
 
 ### Batch Processing (Paid Feature):
 1. Upload multiple images simultaneously.
@@ -85,7 +85,7 @@ Remove.bg is an AI-driven tool that automates the process of background removal 
 ### API Integration:
 1. Access the Remove.bg API through the developer portal.
 2. Follow the API documentation to integrate background removal into your workflows.
-   ![alt text](remove_bg-4.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/remove_bg-4.png)
 
 ---
 

@@ -88,7 +88,7 @@ Midjourney is a cutting-edge platform for creating AI-generated art based on tex
 
 ---
 
-## 7. Advantages
+## 6. Advantages
 
 - **Easy-to-Use:** Intuitive prompt-based interface for all skill levels.
 - **Wide Range of Styles:** Create visuals in diverse artistic styles.
@@ -98,7 +98,7 @@ Midjourney is a cutting-edge platform for creating AI-generated art based on tex
 
 ---
 
-## 8. Disadvantages
+## 7. Disadvantages
 
 - **Discord Dependency:** Requires joining and using Discord for interaction.
 - **Limited Free Use:** The free plan offers limited image generations; paid plans provide extended features.
@@ -107,7 +107,7 @@ Midjourney is a cutting-edge platform for creating AI-generated art based on tex
 
 ---
 
-## 9. Pricing
+## 8. Pricing
 
 1. **Free Plan:**  
    - Limited image generations and basic functionality.
@@ -120,7 +120,7 @@ Visit [Midjourney Pricing](https://www.midjourney.com) for detailed information.
 
 ---
 
-## 10. Tips and Best Practices
+## 9. Tips and Best Practices
 
 - **Be Descriptive:** Use detailed prompts to get precise outputs.  
 - **Experiment with Styles:** Try different keywords to explore diverse artistic possibilities.  
@@ -130,7 +130,7 @@ Visit [Midjourney Pricing](https://www.midjourney.com) for detailed information.
 
 ---
 
-## 11. Conclusion
+## 10. Conclusion
 
 Midjourney is a transformative tool that empowers users to turn their imagination into reality. Whether you're an artist, designer, or enthusiast, it offers endless possibilities for creating unique visuals. With its intuitive interface and powerful AI, Midjourney redefines what’s possible in the world of digital art.
 

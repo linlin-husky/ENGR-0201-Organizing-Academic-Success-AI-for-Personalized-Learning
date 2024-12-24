@@ -1,6 +1,6 @@
 # Midjourney – Generative Art and Image Editing
 
-![alt text](midjourney-5.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/midjourney-5.png)
 
 **Introduction:**
 Midjourney is an AI-powered tool that enables users to create stunning visuals from text descriptions. It specializes in generating high-quality, imaginative images that cater to artists, designers, and anyone looking to explore creative possibilities. With a focus on innovation and accessibility, Midjourney opens up new avenues for artistic expression.

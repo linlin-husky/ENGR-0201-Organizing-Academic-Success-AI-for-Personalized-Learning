@@ -67,19 +67,19 @@ Midjourney is a cutting-edge platform for creating AI-generated art based on tex
 
 ### Getting Started:
 1. Visit [Midjourney](https://www.midjourney.com) and create an account.
-    ![alt text](midjourney.png)
+    ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/midjourney.png)
 2. Join the **Midjourney Discord** server.
-   ![alt text](midjourney-1.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/midjourney-1.png)
 3. Start by entering a text prompt in one of the Discord’s “newbie” channels.
 
 ### Generating Images:
 1. Type `/imagine` followed by your description (e.g., `/vibrant Calfornia poppies`).
-   ![alt text](midjourney-3.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/midjourney-3.png)
 2. Wait for the AI to generate options based on your prompt.
 
 ### Refining Outputs:
 1. Use the buttons under the generated images to **upscale** or **vary** the results.
-   ![alt text](midjourney-4.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/midjourney-4.png)
 2. Modify your prompt for further refinement if needed.
 
 ### Saving and Sharing:

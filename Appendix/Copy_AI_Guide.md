@@ -15,6 +15,7 @@ With its easy-to-use interface, customizable features, and robust AI capabilitie
 - Close deals efficiently.
 
 ---
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_1.jpg)
 
 ## Core Features of Copy.ai
 
@@ -26,11 +27,15 @@ At the heart of Copy.ai lies its powerful content creation capabilities. Using a
 - **Real-Time Search and Updates:** Generate content based on the latest trends and information from the internet.
 - **Brainstorming Tools:** Get fresh ideas for campaigns, taglines, and captions to overcome creative blocks.
 
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_2.jpg)
+
 ### 2. Workflow Automation
 Copy.ai’s Workflow module simplifies repetitive tasks and complex processes. Users can create workflows that integrate multiple actions like:
 - **Triggers:** Automatically initiate workflows based on specific conditions or schedules.
 - **Internet Search Integration:** Collect data from the web to build informed marketing strategies.
 - **Data Processing:** Extract and analyze information from search results, ensuring actionable insights.
+
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_3.jpg)
 
 ### 3. Workflow Library
 Copy.ai provides a rich **Workflow Library** filled with pre-designed templates for various business needs. These templates cater to use cases such as:
@@ -39,11 +44,23 @@ Copy.ai provides a rich **Workflow Library** filled with pre-designed templates 
 - Extracting critical information from sales transcripts.
 - Prioritizing leads with scoring models.
 
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_4.jpg)
+
+   ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_5.jpg)
+
+  
+   ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_6.jpg)
+
+
+  https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_6.jpg
+
 ### 4. Collaboration and Teamwork
 Copy.ai enables seamless collaboration through shared workspaces. Teams can:
 - Work together on workflows and content projects.
 - Share access to the brand voice, templates, and assets.
 - Manage user roles and permissions for efficient teamwork.
+
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### 5. Integration with Advanced AI Models
 Copy.ai utilizes cutting-edge AI technologies to provide unparalleled content generation capabilities. The platform’s integration with models like GPT-3.5 ensures users can:
@@ -51,7 +68,11 @@ Copy.ai utilizes cutting-edge AI technologies to provide unparalleled content ge
 - Personalize content for different audiences.
 - Extract and summarize key information from large datasets.
 
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_7.jpg)
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_8.jpg)
 ---
+
 
 ## Benefits of Copy.ai
 

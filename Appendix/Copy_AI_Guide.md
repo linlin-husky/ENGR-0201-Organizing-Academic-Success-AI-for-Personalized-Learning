@@ -135,4 +135,3 @@ In an era where efficiency and creativity are paramount, Copy.ai is leading the 
 
 ---
 
-**Feel free to contribute to this repository by adding your use cases or suggestions for Copy.ai. Let's innovate together!**

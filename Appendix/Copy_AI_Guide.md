@@ -52,7 +52,6 @@ Copy.ai provides a rich **Workflow Library** filled with pre-designed templates 
    ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_6.jpg)
 
 
-  https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Copyai_6.jpg
 
 ### 4. Collaboration and Teamwork
 Copy.ai enables seamless collaboration through shared workspaces. Teams can:
@@ -60,7 +59,6 @@ Copy.ai enables seamless collaboration through shared workspaces. Teams can:
 - Share access to the brand voice, templates, and assets.
 - Manage user roles and permissions for efficient teamwork.
 
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### 5. Integration with Advanced AI Models
 Copy.ai utilizes cutting-edge AI technologies to provide unparalleled content generation capabilities. The platform’s integration with models like GPT-3.5 ensures users can:

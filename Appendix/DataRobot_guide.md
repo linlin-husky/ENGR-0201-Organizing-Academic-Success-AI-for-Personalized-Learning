@@ -1,6 +1,6 @@
 # DataRobot – AI for Predictive Analytics
 
-![alt text](datarobot.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot.png)
 
 ## 1. Title and Introduction
 **Title:** DataRobot – AI-Driven Predictive Analytics Platform
@@ -76,11 +76,11 @@ DataRobot is a comprehensive AI platform that automates the end-to-end process o
    - Visit [DataRobot](https://www.datarobot.com).
    - Click on the "Sign Up" button and create an account using your email address.
    - Log in to access the platform.
-     ![alt text](datarobot-1.png)  
+     ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-1.png)
 
 2. **Navigate the Dashboard:**
    - Familiarize yourself with the dashboard layout, which includes sections for datasets, projects, and deployed models.
-   ![alt text](datarobot-2.png) 
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-2.png)
 
 3. **Prepare Your Dataset:**
    - Ensure your dataset is clean and formatted (e.g., CSV, Excel, or database connection).
@@ -92,13 +92,13 @@ DataRobot is a comprehensive AI platform that automates the end-to-end process o
 
 1. **Upload Your Dataset:**
    - Click on the “New Project” button.
-     ![alt text](datarobot-3.png) 
+     ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-3.png)
    - Upload your dataset from your computer or connect to a data source like AWS, Snowflake, or Google BigQuery.
 
 2. **Explore Data Insights:**
    - DataRobot automatically analyzes your dataset and provides insights such as missing values, correlations, and summary statistics.
    - Use the visualization tools to explore patterns and relationships in your data.
-    ![alt text](datarobot-4.png) 
+    ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-4.png)
 
 ---
 
@@ -106,15 +106,15 @@ DataRobot is a comprehensive AI platform that automates the end-to-end process o
 
 1. **Select Your Target Variable:**
    - Choose the column you want to predict.
-     ![alt text](datarobot-5.png)
+     ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-5.png)
 
 2. **Configure Project Settings:**
    - Set modeling options, such as the type of problem (classification, regression, or time series).
-    ![alt text](datarobot-6.png) 
+    ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-6.png)
 
 3. **Run AutoML:**
    - DataRobot automatically generates multiple models using various algorithms and ranks them on a leaderboard based on performance metrics (e.g., accuracy, F1 score, or RMSE).
-   ![alt text](datarobot-7.png) 
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-7.png)
 
 4. **Analyze the Leaderboard:**
    - Review the generated models and their performance metrics.
@@ -142,7 +142,7 @@ DataRobot is a comprehensive AI platform that automates the end-to-end process o
 2. **Set Up API Integration:**
    - DataRobot provides an API endpoint for your deployed model.
    - Use this endpoint to integrate the model into your applications or workflows.
-    ![alt text](datarobot-8.png)
+    ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/datarobot-8.png)
 
 ---
 

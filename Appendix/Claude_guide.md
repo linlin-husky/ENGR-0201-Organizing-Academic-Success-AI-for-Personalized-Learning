@@ -1,6 +1,6 @@
 # Claude AI – Conversational AI for Long-Form Writing
 
-![alt text](claude.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/claude.png)
 ## 1. Title and Introduction
 **Title:** Claude AI – Your Assistant for Long-Form Writing and Conversational Tasks
 
@@ -69,21 +69,21 @@ Claude AI is a conversational AI tool capable of generating and structuring long
 
 ### Getting Started:
 1. Visit [Anthropic](https://www.anthropic.com/claude) and sign up for access to Claude AI.
-   ![alt text](claude-1.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/claude-1.png)
 2. Log in to the platform using your credentials.
 3. Familiarize yourself with the chat interface for interactions.
-   ![alt text](claude-2.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/claude-2.png)
 
 ### Generating Long-Form Content:
 1. Open a new chat session.
 2. Provide a detailed prompt (e.g., "Write an essay on the impact of AI on education").
-   ![alt text](claude-3.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/claude-3.png)
 3. Review and refine the generated content.
 
 ### Editing and Improving Content:
 1. Paste the content you wish to improve into the chat.
 2. Ask Claude AI to edit for grammar, style, or tone (e.g., "Make this more formal").
-   ![alt text](claude-4.png)
+   ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/claude-4.png)
 3. Review the suggestions and finalize your content.
 
 ### Brainstorming Ideas:

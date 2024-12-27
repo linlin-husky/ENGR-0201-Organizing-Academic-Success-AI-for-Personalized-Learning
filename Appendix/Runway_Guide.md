@@ -121,7 +121,7 @@ A lively, animated scene showcasing creativity and motion.
 
 **Output:**
 A high-quality 10-second video depicting the scene, showcasing the robot’s flawless functionality and the scientists' reactions in a realistic setting.
-![Runway Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Runway11.png)
+![Runway Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Runway10.png)
 
 ---
 

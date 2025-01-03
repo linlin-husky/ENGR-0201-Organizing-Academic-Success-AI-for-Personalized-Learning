@@ -14,11 +14,9 @@
    - [Advantages of Blog Creation](#advantages-of-blog-creation)
 5. [Mathematical Problem Solving in Google AI Studio](#mathematical-problem-solving-in-google-ai-studio)
    - [How Mathematical Problem Solving Works](#how-mathematical-problem-solving-works)
-   - [Output Example](#output-example)
    - [Advantages of Mathematical Problem Solving](#advantages-of-mathematical-problem-solving)
 6. [Trigonometric Equation Solver in Google AI Studio](#trigonometric-equation-solver-in-google-ai-studio)
    - [How Trigonometric Problem Solving Works](#how-trigonometric-problem-solving-works)
-   - [Output Example](#output-example-1)
    - [Advantages of Trigonometric Solvers](#advantages-of-trigonometric-solvers-in-google-ai-studio)
 7. [Video Analysis and Explanation in Google AI Studio](#video-analysis-and-explanation-in-google-ai-studio)
    - [How Video Analysis Works](#how-video-analysis-works)
@@ -168,16 +166,6 @@ Google AI Studio excels in solving complex mathematical problems, offering step-
 
 ![image](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/google_ai_3b.png)
 
-### Output Example
-- **Problem**: Find the equations of tangent lines to a circle defined by \((x-6)^2 + (y-5)^2 = 17\), intersecting at the point \((0,12)\).
-- **AI's Solution**:
-  - Derives the general tangent line equation.
-  - Applies the point-to-line distance formula.
-  - Solves a quadratic equation for slopes (\(m\)).
-  - Calculates tangent line equations:
-    - \(l_1: y = -\frac{8}{9}x + 12\)
-    - \(l_2: y = -4x + 12\)
-
 ### Advantages of Mathematical Problem Solving
 1. **Step-by-Step Breakdown**:
    - Simplifies complex mathematical problems.
@@ -212,30 +200,6 @@ Google AI Studio provides detailed solutions for trigonometric equations, breaki
    - A clear, structured solution with all intermediate steps and the final answer is presented.
 
 ![image](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/google_ai_4b.png)
-
-### **Output Example**
-
-In the provided example:
-
-- **Problem**:
-  - Solve \(\sqrt{3} \cdot \text{csc}x - 2 = 0\).
-- **AI's Solution**:
-  1. **Isolate the csc term**:
-     - Add \(2\) to both sides: \(\sqrt{3} \cdot \text{csc}x = 2\).
-     - Divide by \(\sqrt{3}\): \(\text{csc}x = \frac{2}{\sqrt{3}}\).
-  2. **Rewrite in terms of sine**:
-     - Since \(\text{csc}x = \frac{1}{\sin x}\), we get \(\sin x = \frac{\sqrt{3}}{2}\).
-  3. **Find the Reference Angle**:
-     - \(\sin x = \frac{\sqrt{3}}{2}\) corresponds to \(\pi/3\) (or 60°).
-  4. **Determine Quadrants**:
-     - Since sine is positive, the solutions are in the first and second quadrants.
-  5. **Find Angles in Quadrants**:
-     - First quadrant: \(x = \pi/3\).
-     - Second quadrant: \(x = \pi - \pi/3 = 2\pi/3\).
-  6. **General Solution**:
-     - Using the periodicity of sine (\(2\pi\)), the general solutions are:
-       - \(x = \pi/3 + 2k\pi\)
-       - \(x = 2\pi/3 + 2k\pi\), where \(k\) is any integer.
 
 ### **Advantages of Trigonometric Solvers in Google AI Studio**
 

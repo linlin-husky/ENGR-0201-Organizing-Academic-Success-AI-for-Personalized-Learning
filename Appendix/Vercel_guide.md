@@ -84,7 +84,7 @@ Before starting, ensure you have the following:
 
 
 3. **Verify Deployment**:
-   - After successful deployment, you’ll be provided with a live URL (e.g., `https://yourblog.vercel.app/`).
+   - After successful deployment, you’ll be provided with a live URL (`https://blog-drab-zeta-48.vercel.app/`).
       ![image](https://github.com/user-attachments/assets/7989384b-b292-4c4c-9e3e-9cee8df86a1a)
    - Open the URL in your browser to ensure the website is functioning correctly.
      This is the Home page

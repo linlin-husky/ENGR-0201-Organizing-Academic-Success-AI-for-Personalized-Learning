@@ -21,6 +21,7 @@ Whether you're building a blog, an e-commerce store, or an API backend, Vercel's
 12. [Advantages of Vercel](#advantages-of-vercel)
 13. [Disadvantages of Vercel](#disadvantages-of-vercel)
 14. [Use Cases of Vercel](#use-cases-of-vercel)
+15. [Reference](#reference)
 
 ---
 
@@ -270,3 +271,8 @@ Whether you're building a blog, an e-commerce store, or an API backend, Vercel's
 - **Example**: A dashboard for monitoring IoT device data, fetching statistics through serverless APIs.
 
 ---
+
+## Reference
+
+Youtube: https://www.youtube.com/watch?v=lnlDK6LHWu8
+FINAL Blog: https://blog-starter-kit-pi-pied.vercel.app/ 

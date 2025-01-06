@@ -1,5 +1,6 @@
 
 # Artbreeder – Collaborative AI-Generated Art
+***by Nik Bear Brown*
 
 ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder.png)
 

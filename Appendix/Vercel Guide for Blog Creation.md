@@ -274,5 +274,5 @@ Whether you're building a blog, an e-commerce store, or an API backend, Vercel's
 
 ## Reference
 
-Youtube: https://www.youtube.com/watch?v=lnlDK6LHWu8
+Youtube: https://youtu.be/TLysr4pzNAM?si=RgFmvBQ-RA-ihoUT
 FINAL Blog: https://blog-starter-kit-pi-pied.vercel.app/ 

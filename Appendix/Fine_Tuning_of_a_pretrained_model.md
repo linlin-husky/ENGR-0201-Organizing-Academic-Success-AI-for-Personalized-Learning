@@ -11,7 +11,7 @@ This project fine-tunes a pre-trained DistilBERT model for spam classification. 
 ```python
 import pandas as pd
 
-df = pd.read_csv(r'C:\Users\sawan\OneDrive\Desktop\AI\SMSSpamCollection.txt', sep='\t', names=["label", "message"])
+df = pd.read_csv('Spam_Collection.csv', sep='\t', names=["label", "message"])
 print(df.head())
 ```
 - Reads a tab-separated file (`SMSSpamCollection.txt`).

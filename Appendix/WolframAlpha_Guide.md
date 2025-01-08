@@ -167,8 +167,20 @@ Embed the Wolfram Alpha query function into your GPT application logic to enable
 - **Advanced Visualization**: Integrate plotting libraries like Matplotlib for visual outputs.
 
 ---
+## 10. **Testing and Results**
 
-## 10. **Conclusion**
+I tested this GPT integration with Wolfram Alpha extensively to ensure its functionality and accuracy. The results were highly satisfactory, demonstrating seamless interaction between the two systems. Queries like solving mathematical equations, retrieving factual data, and generating plots were handled efficiently and accurately. The GPT’s conversational context combined with Wolfram Alpha's computational precision enabled dynamic and insightful responses. This testing phase reaffirmed the utility and reliability of this integration for a wide range of applications, from academic problem-solving to general knowledge inquiries.
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha1.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha2.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha3.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha4.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha5.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha6.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha7.png)
+![Wolfram Dashboard Example](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/WolframAlpha8.png)
+
+
+## 11. **Conclusion**
 
 The integration of Wolfram Alpha with GPT enhances the latter’s capabilities by providing access to a robust computational engine. With proper setup and usage, users can enjoy a seamless experience combining natural language processing with precise data-driven insights.
 

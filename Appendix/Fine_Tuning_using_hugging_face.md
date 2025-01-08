@@ -52,7 +52,7 @@ print(y)
 ### 5. Splitting Data
 ```python
 from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=40)
 ```
 
 ---
@@ -61,7 +61,6 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 ```python
 from transformers import DistilBertTokenizer
 tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-
 train_encodings = tokenizer(X_train, truncation=True, padding=True, max_length=512)
 test_encodings = tokenizer(X_test, truncation=True, padding=True, max_length=512)
 ```

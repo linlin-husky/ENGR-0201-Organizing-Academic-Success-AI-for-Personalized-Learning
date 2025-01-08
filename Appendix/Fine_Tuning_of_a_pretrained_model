@@ -1,9 +1,0 @@
-
-#Spam Classification using DistilBERT
-
-This project fine-tunes a pre-trained DistilBERT model for spam classification. The dataset includes labeled text messages ("ham" and "spam") that are tokenized and processed for training.
-# **Introduction to Fathom AI-Powered Meeting Notes**
-Fathom AI is a productivity tool designed to enhance virtual meeting experiences by automatically recording, transcribing, and summarizing meetings. It integrates seamlessly with platforms like Zoom to simplify note-taking and ensure key points, decisions, and action items are captured accurately. By leveraging AI, Fathom helps users focus on the discussion rather than worrying about detailed note-taking, saving time and improving collaboration.
-
-
----

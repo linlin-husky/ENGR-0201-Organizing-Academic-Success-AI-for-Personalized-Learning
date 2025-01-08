@@ -1,4 +1,3 @@
-
 # Spam Classification using DistilBERT
 
 This project fine-tunes a pre-trained DistilBERT model for spam classification. The dataset includes labeled text messages ("ham" and "spam") that are tokenized and processed for training.

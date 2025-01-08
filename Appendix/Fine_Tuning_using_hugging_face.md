@@ -1,5 +1,5 @@
 # Fine-Tuning of a dataset using a pretrained model from hugging face
-# Why Fine-Tune Instead of Training from Scratch?
+# Why Fine-Tune Instead of Training?
 
 ## Pre-trained Models:
 - Models like **BERT**, **GPT**, and **DistilBERT** are trained on massive datasets (e.g., Wikipedia, books, web content).
